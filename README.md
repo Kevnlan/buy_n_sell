@@ -17,8 +17,8 @@ This website is built using Node.js and Express.js, providing a robust and effic
 ## Getting Started
 1. Clone the repository
 2. Install dependencies with `npm install`
-3. Start the server with `npm start`
-4. Visit `localhost:3000` in your browser
+3. Start the server with `npm run dev`
+4. Visit `localhost:2020` in your browser
 
 ## Contributing
 We welcome contributions! Please see our contributing guidelines for details.
